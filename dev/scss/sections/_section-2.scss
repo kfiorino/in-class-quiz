@@ -1,0 +1,17 @@
+/* =============
+    Section 1
+============= */
+#section-2{
+
+    display: grid; 
+
+    h1 { 
+        color: #000000;
+        font-family: 'Monserrat', sans-serif;
+        font-size: rem-calc(35);
+        font-weight: 700;
+        line-height: rem-calc(43);
+        margin: 10px 10px;
+    }
+}
+
